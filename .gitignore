@@ -1,0 +1,12 @@
+.DS_Store
+.classpath
+.settings
+.project
+.gradle
+.idea
+*.iml
+*.class
+
+bin/
+build
+test-output
